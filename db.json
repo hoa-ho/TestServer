@@ -98,5 +98,32 @@
                "status": "Open",
                "timestamp": "9/22/2019 1:15 PM"
          }
-     ]
+    ],
+
+    "agents": [
+         {
+              "id": 83839,
+              "name": "Peter Rotich"
+         },
+         {
+              "id": 48339,
+              "name": "Karen Moreau"
+         },
+         {
+              "id": 86733,
+              "name": "Kevin Thorne"
+         },
+         {
+              "id": 37375,
+              "name": "Chloe Bowman"
+         },
+         {
+              "id": 26838,
+              "name": "Adriane Alexander"
+         },
+         {
+              "id": 74840,
+              "name": "Hoa Ho"
+         }
+    ]
 }

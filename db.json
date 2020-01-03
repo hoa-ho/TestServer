@@ -105,48 +105,48 @@
               "id": 288383,
               "sender": "Bob Junior",
               "profileUrl": "https://via.placeholder.com/100",
-              "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+              "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tempus lorem ex, sed blandit massa maximus non. Ut nec ornare ipsum, quis efficitur turpis. Donec malesuada tempus dolor, vel elementum ipsum tempus sit amet. Sed blandit ut purus ac blandit. Ut eu scelerisque libero. Sed et arcu vitae neque consectetur cursus. Sed tincidunt gravida justo sit amet rutrum.",
               "timestamp": "12/09/2019 11:34:21 PM",
               "threadType": "user"
          },
          {
-              "id": 288383,
+              "id": 288384,
               "sender": "Hoa Ho",
               "profileUrl": "https://via.placeholder.com/100",
-              "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-              "timestamp": "12/09/2019 11:34:21 PM",
+              "content": "Etiam id turpis hendrerit, finibus tortor id, laoreet arcu. Praesent porta nulla quis mi ullamcorper, non viverra risus aliquam. Vestibulum in nibh massa. Curabitur vel velit sit amet lacus luctus vehicula in quis sem.",
+              "timestamp": "12/10/2019 09:34:21 AM",
               "threadType": "agent"
          },
          {
-              "id": 288383,
+              "id": 288385,
               "sender": "Bob Junior",
               "profileUrl": "https://via.placeholder.com/100",
-              "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-              "timestamp": "12/09/2019 11:34:21 PM",
+              "content": "Integer ac dolor quam. Pellentesque sodales tortor ac imperdiet molestie. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas quis justo sem. Quisque enim dui, cursus a feugiat eu, tempor quis massa. Duis ultricies ex non mi imperdiet, in congue nibh convallis.",
+              "timestamp": "12/10/2019 04:12:05 PM",
               "threadType": "user"
          },
          {
-              "id": 288383,
+              "id": 288386,
               "sender": "Bob Junior",
               "profileUrl": "https://via.placeholder.com/100",
-              "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-              "timestamp": "12/09/2019 11:34:21 PM",
+              "content": "Suspendisse vulputate metus et nibh rutrum, vel ornare est lobortis. Vivamus vestibulum porttitor erat sit amet posuere.",
+              "timestamp": "12/10/2019 05:34:21 PM",
               "threadType": "user"
          },
          {
-              "id": 288383,
+              "id": 288387,
               "sender": "Hoa Ho",
               "profileUrl": "https://via.placeholder.com/100",
-              "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-              "timestamp": "12/09/2019 11:34:21 PM",
+              "content": "In vel mauris sit amet purus pulvinar sollicitudin non vel diam. Suspendisse tempor suscipit luctus. Aliquam luctus tortor non nibh tristique interdum. Integer sollicitudin ex sed elit tempor scelerisque.",
+              "timestamp": "12/11/2019 12:05:21 PM",
               "threadType": "agent"
          },
          {
-              "id": 288383,
+              "id": 288388,
               "sender": "Bob Junior",
               "profileUrl": "https://via.placeholder.com/100",
-              "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-              "timestamp": "12/09/2019 11:34:21 PM",
+              "content": "Nam condimentum tincidunt nisi quis tincidunt. Vestibulum venenatis quis leo nec molestie. Fusce nisl dui, tincidunt eu bibendum sit amet, ornare non lorem. Quisque imperdiet sit amet eros volutpat mattis. Etiam cursus felis eu tortor commodo, eu pharetra purus pretium. Cras eu lacus lectus.",
+              "timestamp": "12/12/2019 11:34:21 AM",
               "threadType": "user"
          }
     ],

@@ -151,37 +151,6 @@
          }
     ],
 
-    "ticketMenu": [
-         {
-              "id": 284,
-              "name": "Edit Ticket"
-         },
-         {
-              "id": 285,
-              "name": "Delete Ticket"
-         },
-         {
-              "id": 286,
-              "name": "Reopen Ticket"
-         },
-         {
-              "id": 287,
-              "name": "Close Ticket"
-         },
-         {
-              "id": 288,
-              "name": "Assign Ticket"
-         },
-         {
-              "id": 289,
-              "name": "Claim Ticket"
-         },
-         {
-              "id": 290,
-              "name": "Transfer Ticket"
-         }
-    ],
-
     "agents": [
          {
               "id": 83839,

@@ -52,43 +52,55 @@
     "notifications": [
          {
               "id": 28830,
-              "name": "John Bean marked task Fix 404 Error as completed",
+              "name": "John Bean marked task as completed: Publish blog post",
               "recipient": 23282,
+              "type": "task",
+              "typeId": 3837,
               "status": 0,
               "timestamp": "09/23/2019 1:23:21 PM"
          },
          {
               "id": 89384,
-              "name": "Robert Prosper assigned ticket Site Issues - Slow to you",
+              "name": "Robert Prosper assigned ticket to you: Why is there an exception to every rule?",
               "recipient": 23282,
+              "type": "ticket",
+              "typeId": 1848393,
               "status": 0,
               "timestamp": "09/21/2019 5:23:21 PM"
          },
          {
               "id": 37373,
-              "name": "John Bean marked task Fix 404 Error as completed",
+              "name": "Billy Bob marked task as completed: Meet with web dev team to discuss spec",
               "recipient": 23282,
+              "type": "task",
+              "typeId": 3838,
               "status": 1,
               "timestamp": "09/21/2019 1:23:21 PM"
          },
          {
               "id": 83945,
-              "name": "John Bean marked task Fix 404 Error as completed",
+              "name": "Larry Page marked task as closed: Meet with web dev team to discuss spec",
               "recipient": 23282,
+              "type": "task",
+              "typeId": 3838,
               "status": 0,
               "timestamp": "09/20/2019 1:23:21 PM"
          },
          {
               "id": 37383,
-              "name": "John Bean marked task Fix 404 Error as completed",
+              "name": "New ticket created: Why do logic and reason fail to explain that which is true?",
               "recipient": 23282,
+              "type": "ticket",
+              "typeId": 1848394,
               "status": 1,
               "timestamp": "09/19/2019 1:23:21 PM"
          },
          {
               "id": 28383,
-              "name": "John Bean marked task Fix 404 Error as completed",
+              "name": "John Bean closed ticket: Is the universe finite or infinite?",
               "recipient": 23282,
+              "type": "ticket",
+              "typeId": 1848395,
               "status": 1,
               "timestamp": "09/19/2019 1:23:21 PM"
          }
